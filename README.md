@@ -11,7 +11,7 @@
 ---
 
 ## ⚙️ Tech Stack & Tools
-
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=fff&style=for-the-badge)
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=fff&style=for-the-badge)
@@ -39,11 +39,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungbac11&layout=compact&langs_count=6&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=trungbac11&show_icons=true&theme=tokyonight&rank_icon=github" height="180"/>
 </p>
+
 
 ---
 
