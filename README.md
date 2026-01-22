@@ -1,4 +1,7 @@
 # 👋 Hi, I’m **Trung Bac**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=trungbac11&color=blue" />
+</p>
 
 🎓 **Final-year student** majoring in **Data Science** at the **Faculty of Mathematics & Computer Science**, University of Science – VNUHCM.  
 🏦 Career-oriented towards **Data Engineer** | **Data Administrator** roles in the **banking and financial sector**.
@@ -58,8 +61,4 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tranbac1128@gmail.com)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=trungbac11&color=blue" />
-</p>
 
