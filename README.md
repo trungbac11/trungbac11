@@ -9,8 +9,7 @@
 </p>
 
 <p align="left">
-  🏦 Career-oriented towards <strong>Data Engineer</strong> | <strong>Data Administrator</strong> roles in the 
-  <strong>banking and financial sector</strong>.
+  🏦 Career-oriented towards <strong>Data Engineer</strong> | <strong>Data Administrator</strong>.
 </p>
 
 <p align="left">
