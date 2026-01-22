@@ -3,10 +3,10 @@
   <img src="https://komarev.com/ghpvc/?username=trungbac11&color=blue" />
 </p>
 
-🎓 **Final-year student** majoring in **Data Science** at the **Faculty of Mathematics & Computer Science**, University of Science – VNUHCM.  
-🏦 Career-oriented towards **Data Engineer** | **Data Administrator** roles in the **banking and financial sector**.
-💡 I focus on building and operating **reliable data pipelines, enterprise databases, and data platforms** that handle **large-scale transactional and analytical data**.  
-🛠 My interests include **ETL/ELT processes, data quality management, data warehousing, and database administration**, with an emphasis on **stability, security, and data integrity**.  
+<p align="left">**Final-year student** majoring in **Data Science** at the **Faculty of Mathematics & Computer Science**, University of Science – VNUHCM. </p>
+<p align="left"> 🏦 Career-oriented towards **Data Engineer** | **Data Administrator** roles in the **banking and financial sector**. </p> 
+<p align="left">💡 I focus on building and operating **reliable data pipelines, enterprise databases, and data platforms** that handle **large-scale transactional and analytical data**. </p>
+<p align="left"> 🛠 My interests include **ETL/ELT processes, data quality management, data warehousing, and database administration**, with an emphasis on **stability, security, and data integrity**. </p>  
 
 ---
 
