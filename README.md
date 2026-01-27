@@ -8,11 +8,11 @@
 </p>
 
 <p align="left">
-  🔬 A Data Engineer | Data Administrator
+  ⚙️ A Data Engineer | Data Administrator
 </p>
 
 <p align="left">
-  🛠 I am currently intern at Sacombank as Database Administrator.
+  🗄️ I am currently intern at Sacombank as Database Administrator.
 </p>
 
 ---
