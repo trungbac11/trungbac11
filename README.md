@@ -3,17 +3,9 @@
   <img src="https://komarev.com/ghpvc/?username=trungbac11&color=blue" />
 </p>
 
-<p align="left">
-  🎓 Final-year student at the Faculty of Mathematics & Computer Science, University of Science – VNUHCM.
-</p>
-
-<p align="left">
+  🎓 Final-year student at the Faculty of Mathematics & Computer Science, **University of Science – VNUHCM**.
   ⚙️ A Data Engineer | Data Administrator
-</p>
-
-<p align="left">
-  🗄️ I am currently intern at Sacombank as Database Administrator.
-</p>
+  🗄️ I am currently intern at **Sacombank** as **Database Administrator**.
 
 ---
 
