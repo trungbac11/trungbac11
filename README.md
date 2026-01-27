@@ -4,24 +4,16 @@
 </p>
 
 <p align="left">
-  <strong>Final-year student</strong> majoring in <strong>Data Science</strong> at the 
-  <strong>Faculty of Mathematics & Computer Science</strong>, University of Science – VNUHCM.
+  🎓 Final-year student at the Faculty of Mathematics & Computer Science, University of Science – VNUHCM.
 </p>
 
 <p align="left">
-  🏦 Career-oriented towards <strong>Data Engineer</strong> | <strong>Data Administrator</strong>.
+  🔬 A Data Engineer | Data Administrator
 </p>
 
 <p align="left">
-  💡 I focus on building and operating <strong>reliable data pipelines, enterprise databases, and data platforms</strong> 
-  that handle <strong>large-scale transactional and analytical data</strong>.
+  🛠 I am currently intern at Sacombank as Database Administrator.
 </p>
-
-<p align="left">
-  🛠 My interests include <strong>ETL/ELT processes, data quality management, data warehousing, and database administration</strong>, 
-  with an emphasis on <strong>stability, security, and data integrity</strong>.
-</p>
-
 
 ---
 
