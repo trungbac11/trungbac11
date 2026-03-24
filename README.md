@@ -6,8 +6,6 @@
   🎓 Final-year student at the Faculty of Mathematics & Computer Science, **University of Science – VNUHCM**
   
   ⚙️ A Data Engineer | Data Administrator
-  
-  🗄️ I am currently intern at **Sacombank** as **Database Administrator**
 
 ---
 
